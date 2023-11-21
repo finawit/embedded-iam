@@ -1,2 +1,2 @@
-# embedded-iam
-Embeded Keycloak inside a Spring Boot application in order to prepare a token for running tests
+- copied from:
+  - https://github.com/Baeldung/spring-security-oauth/tree/master/oauth-rest/oauth-authorization-server
